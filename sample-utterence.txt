@@ -1,0 +1,6 @@
+CountIntent How many Trolleys are running
+LocateIntent Are there any Trolleys running
+LocateIntent Where are the Trolleys currently located
+LocateIntent Where are the Trolleys located currently
+LocateIntent Where can I catch a trolley
+LocateIntent Where can I catch a trolley right now
